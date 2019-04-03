@@ -1,0 +1,9 @@
+C:\Users\Developer\source\repos\CPUClasses\ClassLibrary1\bin\Debug\netstandard2.0\PCclasses.deps.json
+C:\Users\Developer\source\repos\CPUClasses\ClassLibrary1\bin\Debug\netstandard2.0\PCclasses.dll
+C:\Users\Developer\source\repos\CPUClasses\ClassLibrary1\bin\Debug\netstandard2.0\PCclasses.pdb
+C:\Users\Developer\source\repos\CPUClasses\ClassLibrary1\obj\Debug\netstandard2.0\PCclasses.csprojAssemblyReference.cache
+C:\Users\Developer\source\repos\CPUClasses\ClassLibrary1\obj\Debug\netstandard2.0\PCclasses.csproj.CoreCompileInputs.cache
+C:\Users\Developer\source\repos\CPUClasses\ClassLibrary1\obj\Debug\netstandard2.0\PCclasses.AssemblyInfoInputs.cache
+C:\Users\Developer\source\repos\CPUClasses\ClassLibrary1\obj\Debug\netstandard2.0\PCclasses.AssemblyInfo.cs
+C:\Users\Developer\source\repos\CPUClasses\ClassLibrary1\obj\Debug\netstandard2.0\PCclasses.dll
+C:\Users\Developer\source\repos\CPUClasses\ClassLibrary1\obj\Debug\netstandard2.0\PCclasses.pdb
